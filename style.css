@@ -186,7 +186,7 @@ svg {
   justify-content: center;
   align-items: center;
   text-align: center;
-  gap: 22px 25px;
+  gap: 25px 25px;
 }
 
 .header__home {
@@ -245,7 +245,7 @@ svg {
 .hero__image {
   position: absolute;
   /* top: 0; */
-  top: 6%;
+  top: 7%;
   left: 50%;
   translate: -50%;
   /* width: 174px; */
@@ -275,7 +275,7 @@ svg {
   position: relative;
   text-align: center;
   margin-block-start: 335px;
-  padding-top: 24px;
+  padding-top: 32px;
 }
 
 .hero__headline {
